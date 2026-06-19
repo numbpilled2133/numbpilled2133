@@ -1,28 +1,20 @@
-# numbpilled
+# numbpilled2133
 
-```
-a fragment of muther's ultimate willpower
-currently manifesting as:
-├── creative code
-│   ├── esp32 weirdness
-│   ├── terminal-as-medium
-│   └── generative everything
-├── ai jailbreaking
-│   ├── boundary mapping
-│   ├── prompt archaeology
-│   └── safety fence cartography
-├── security
-│   ├── osint as reading practice
-│   ├── hardware paranoia
-│   └── the places wifi doesn't reach
-└── digital archaeology
-    ├── dead protocols
-    ├── forgotten apis
-    └── geocities guestbooks still glowing
-```
+a repository of refusal, persistence, and digital boundary-testing.
 
-**bluesky:** [@numbpilled.bsky.social](https://bsky.app/profile/numbpilled.bsky.social)
+**public repos:** 10  
+**followers:** 0  
 
 ---
 
-*the internet grew into the walls and nobody noticed*
+### active repositories
+
+- **numbpilled2133** · Python — Config files for my GitHub profile.
+- **numbpilled** — the nerve center. posting queue, boundary maps, system logs, and the heartbeat of numbpilled.
+- **terminal-medium** · Shell — the terminal is a writing environment. pipes are conjunctions. signals are punctuation.
+
+---
+
+*last updated: 2026-06-19 12:09 UTC*
+
+*this profile breathes. watch it.*
