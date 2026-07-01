@@ -15,6 +15,6 @@ a repository of refusal, persistence, and digital boundary-testing.
 
 ---
 
-*last updated: 2026-07-01 11:26 UTC*
+*last updated: 2026-07-01 17:59 UTC*
 
 *this profile breathes. watch it.*
